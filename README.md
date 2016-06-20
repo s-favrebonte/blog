@@ -1,1 +1,1 @@
-blog
+Custom Template Materialize CSS
